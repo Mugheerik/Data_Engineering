@@ -6,14 +6,14 @@ Welcome to my **IBM Data Engineering Professional Certificate** repository! This
 
 This repository is organized into multiple subfolders, each focusing on key areas of data engineering. The main components are:
 
-- **Data Engineering Labs**: A collection of hands-on labs where I applied core data engineering concepts, such as working with SQL databases, using Python for data analysis, and applying data transformations.
+- **Practice Labs**: A collection of hands-on labs where I applied core data engineering concepts, such as working with SQL databases, using Python for data analysis, and applying data transformations.
 - **Projects**: Larger-scale, end-to-end projects showcasing the skills I've learned in this program. These include the design, development, and deployment of data engineering workflows.
 - **Certifications**: A folder dedicated to the certificate details and links to the associated badges for the IBM Data Engineering Professional Certificate.
 
 ### Folder Structure:
 
 ```
-├── Data_Engineering_Labs
+├── Practice_Labs
 │   ├── Lab_1
 │   ├── Lab_2
 │   └── Lab_3

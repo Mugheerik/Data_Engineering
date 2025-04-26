@@ -1,0 +1,9 @@
+2025-Apr-26-14:44:10 : Preliminaries complete. Initiating ETL process
+2025-Apr-26-14:44:10 : Extracting data from website
+2025-Apr-26-14:44:12 : Extracting data from csv and transforming
+2025-Apr-26-14:44:12 : Loading dataframe into csv file
+2025-Apr-26-14:44:12 : Loading sql connection
+2025-Apr-26-14:44:12 : Loading dataframe into Database
+2025-Apr-26-14:44:12 : running queries
+2025-Apr-26-14:44:12 : process completed
+2025-Apr-26-14:44:12 : server connection closed
